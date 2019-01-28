@@ -185,7 +185,7 @@ Roadmap
 History
 -------
 
-1.0.3 (1018-09-10)
+1.0.3 (2018-09-10)
 ..................
 * Improvement: Added option to specify port in hostname parameter (`pvanagtmaal <https://github.com/pvanagtmaal>`_)
 * Improvement: Added stderr to the Response content (`Jérôme Schneider <https://github.com/merinos>`_)
